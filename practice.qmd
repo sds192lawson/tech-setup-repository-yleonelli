@@ -13,7 +13,7 @@ If you're able to see this file in RStudio (and edit it), congratulations! Pleas
 Using the `paste()` function, input "Hello World" within the parentheses and write out the code below in the gray chunk.
 
 ```{r}
-
+paste("Hello World")
 ```
 
 ###### Question 2
@@ -21,7 +21,7 @@ Using the `paste()` function, input "Hello World" within the parentheses and wri
 In the gray chunk below, write out and run a simple mathematical calculation. This can be with addition, subtraction, etc. using similar input that you would put in a traditional calculator.
 
 ```{r}
-
+2*3
 ```
 
 Once finished, please save the document by clicking the Save button above. Then, return to the Tech Setup instructions to learn how to commit and push you code. 
